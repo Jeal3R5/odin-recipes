@@ -14,7 +14,8 @@ This site will allow me to practice:
     * Commit
     * Push
     * Commit messages
+* CSS
 
 #### Future Enhancements
-* CSS
+* Fixing the background image on the recipe pages and style each individual page a little better.
 * Javascript

@@ -1,26 +1,10 @@
-body {
+/* body {
     background-image: url("https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/upwk61806992-wikimedia-image-kp7xj3f8.jpg?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=1d29c7684f6717854caf6b4bb80843d8");
     background-repeat: no-repeat;
     background-size: cover;
-}
+} */
 
-a {
-    color: darkgreen;
-}
 
-li {
-    font-size: 24px;
-    text-align: center;
-    padding: 20px;
-}
-
-h1 {
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', 'Geneva', 'Verdana, sans-serif';
-    font-size: 34px;
-    font-weight: bold;
-    text-align: center;
-    text-decoration: underline;
-}
 
 .navbar {
     overflow: hidden;
@@ -83,4 +67,65 @@ h1 {
 /* Show the dropdown menu on hover */
 .dropdown:hover .dropdown-content {
     display: block;
+}
+
+.body.bakedMac {
+    background-color: lightsteelblue;
+}
+
+a {
+    color: darkgreen;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    font-size: 24px;
+    text-align: center;
+    padding: 20px;
+}
+
+h1 {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', 'Geneva', 'Verdana, sans-serif';
+    font-size: 34px;
+    font-weight: bold;
+    text-align: center;
+}
+
+h3 {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', 'Geneva', 'Verdana, sans-serif';
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 250px;
+    height: auto;
+}
+
+p {
+    text-align: center;
+}
+
+.home {
+    background-image: url("https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/upwk61806992-wikimedia-image-kp7xj3f8.jpg?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=1d29c7684f6717854caf6b4bb80843d8");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bakedMac {
+    background-image: url("https://images.pexels.com/photos/129731/pexels-photo-129731.jpeg");
+}
+
+.lasagna {
+    background-image: url("https://images.pexels.com/photos/129731/pexels-photo-129731.jpeg");
+}
+
+.peanutJelly {
+    background-image: url("https://images.pexels.com/photos/129731/pexels-photo-129731.jpeg");
 }
