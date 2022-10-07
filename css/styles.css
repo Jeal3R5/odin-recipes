@@ -2,8 +2,8 @@
     background-image: url("https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/upwk61806992-wikimedia-image-kp7xj3f8.jpg?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=1d29c7684f6717854caf6b4bb80843d8");
     background-repeat: no-repeat;
     background-size: cover;
-} */
-
+} 
+ */
 
 
 .navbar {
@@ -69,9 +69,6 @@
     display: block;
 }
 
-.body.bakedMac {
-    background-color: lightsteelblue;
-}
 
 a {
     color: darkgreen;
@@ -84,8 +81,8 @@ ul {
 }
 
 li {
-    font-size: 24px;
-    text-align: center;
+    font-size: 20px;
+    text-align: left;
     padding: 20px;
 }
 
@@ -99,6 +96,7 @@ h1 {
 h3 {
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', 'Geneva', 'Verdana, sans-serif';
     text-align: center;
+    font-size: 24px;
 }
 
 img {
@@ -107,17 +105,20 @@ img {
     margin-right: auto;
     width: 250px;
     height: auto;
+    border-radius: 25%;
 }
 
 p {
     text-align: center;
 }
 
+
 .home {
     background-image: url("https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/upwk61806992-wikimedia-image-kp7xj3f8.jpg?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=1d29c7684f6717854caf6b4bb80843d8");
     background-repeat: no-repeat;
     background-size: cover;
 }
+
 .bakedMac {
     background-image: url("https://images.pexels.com/photos/129731/pexels-photo-129731.jpeg");
 }
@@ -128,4 +129,9 @@ p {
 
 .peanutJelly {
     background-image: url("https://images.pexels.com/photos/129731/pexels-photo-129731.jpeg");
+}
+
+
+body {
+    color: #3d1520;
 }
